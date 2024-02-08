@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wx1sey0kjy0eqcvw?svg=true)](https://ci.appveyor.com/project/RomanK75/methods)
+
 # Домашнее задание к лекции «Классы, наследование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
