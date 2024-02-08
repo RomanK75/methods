@@ -15,4 +15,4 @@ install:
 build: off
 
 test_script:
-  - npm run coverage && npm lint
+  - npm run coverage && npm run lint
