@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1707390589891" clover="3.2.0">
-  <project timestamp="1707390589891" name="All files">
+<coverage generated="1707483029960" clover="3.2.0">
+  <project timestamp="1707483029960" name="All files">
     <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3" elements="22" coveredelements="22" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
     <file name="main.js" path="C:\Users\Mytth\Desktop\Домашка\JS 2nd module\Задания по 2му модулю\ajs-homeworks-master\ajs-homeworks-master\oop\methods\src\js\main.js">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
