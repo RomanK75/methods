@@ -7,4 +7,3 @@ test('Character levelup function', () => {
   expect(character.level).toBe(2);
   expect(() => errorCharacter.levelup()).toThrow("You can't level up while you are dead");
 });
-
